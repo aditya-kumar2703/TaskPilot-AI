@@ -1,0 +1,6 @@
+{
+  "name": "TaskPilot AI",
+  "description": "An autonomous, AI-centric productivity companion that predicts missed deadlines, intelligently prioritizes work, dynamically replans schedules, and guides users with real-time assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
